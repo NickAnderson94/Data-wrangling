@@ -1,0 +1,1 @@
+Adding a git commit requires a message to avoid error!
